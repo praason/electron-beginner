@@ -1,0 +1,22 @@
+{
+  "name": "electron-beginner",
+  "version": "1.0.0",
+  "description": "This is beginner hellow world app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/praason/electron-beginner",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Praason",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^9.1.0"
+  }
+}
